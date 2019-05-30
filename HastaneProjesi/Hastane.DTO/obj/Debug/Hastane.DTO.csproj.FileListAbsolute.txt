@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\Hastane.DTO\bin\Debug\Hastane.DTO.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\Hastane.DTO\bin\Debug\Hastane.DTO.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\Hastane.DTO\bin\Debug\Hastane.DTO.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\Hastane.DTO\bin\Debug\Hastane.DTO.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\Hastane.DTO\obj\Debug\Hastane.DTO.pdb

@@ -1,0 +1,36 @@
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneEntity\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneEntity\obj\Debug\HastaneEntity.pdb

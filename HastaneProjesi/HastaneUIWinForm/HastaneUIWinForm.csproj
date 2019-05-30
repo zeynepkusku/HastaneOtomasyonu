@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B5A193A7-220B-4C2B-AC9C-2BDD4BD946C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HastaneUIWinForm</RootNamespace>
+    <AssemblyName>HastaneUIWinForm</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaForm.Designer.cs">
+      <DependentUpon>frmAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoktorEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoktorEkrani.Designer.cs">
+      <DependentUpon>frmDoktorEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoktorMuayene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoktorMuayene.Designer.cs">
+      <DependentUpon>frmDoktorMuayene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEczaneEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEczaneEkrani.Designer.cs">
+      <DependentUpon>frmEczaneEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHastaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHastaEkrani.Designer.cs">
+      <DependentUpon>frmHastaEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMevcutRandevular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMevcutRandevular.Designer.cs">
+      <DependentUpon>frmMevcutRandevular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_UyeOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_UyeOl.Designer.cs">
+      <DependentUpon>frm_UyeOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAnaForm.resx">
+      <DependentUpon>frmAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoktorEkrani.resx">
+      <DependentUpon>frmDoktorEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoktorMuayene.resx">
+      <DependentUpon>frmDoktorMuayene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEczaneEkrani.resx">
+      <DependentUpon>frmEczaneEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHastaEkrani.resx">
+      <DependentUpon>frmHastaEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMevcutRandevular.resx">
+      <DependentUpon>frmMevcutRandevular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_UyeOl.resx">
+      <DependentUpon>frm_UyeOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hastane.DTO\Hastane.DTO.csproj">
+      <Project>{76c39a93-d4c1-4d13-83fe-a3de6a763ad0}</Project>
+      <Name>Hastane.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HastaneBLL\HastaneBLL.csproj">
+      <Project>{acdcc5f1-4b64-4474-9204-b523a4b195c0}</Project>
+      <Name>HastaneBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HastaneDAL\HastaneDAL.csproj">
+      <Project>{0D4C88A2-A19B-4BD9-B164-90C7DBA4395A}</Project>
+      <Name>HastaneDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HastaneEntity\HastaneEntity.csproj">
+      <Project>{afae7443-be19-463a-846d-ee47f7b53579}</Project>
+      <Name>HastaneEntity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saglikbakanligi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mhrsLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hasta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\randevual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arabutonu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eczne.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,110 @@
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll.config
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\bin\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.csproj.CopyComplete
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneDAL\obj\Debug\HastaneDAL.pdb

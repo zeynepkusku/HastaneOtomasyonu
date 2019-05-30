@@ -1,0 +1,277 @@
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaGiris.resources
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Desktop\H\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaGiris.resources
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\zbayr\Desktop\hastane\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaGiris.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneGiris.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\bilge.adam\Desktop\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorGiris.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorGiris.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneGiris.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaGiris.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\Çıkarıldı (8)\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorGiris.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneGiris.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaGiris.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Desktop\BilgeAdam\HastaneProjesi\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorEkrani.resources
+C:\Users\User\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorMuayene.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorEkrani.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorMuayene.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Agâh\Agâh\ProjeSon\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorEkrani.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorMuayene.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\mahzu\OneDrive\Masaüstü\Yeni klasör (4)\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojAssemblyReference.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorEkrani.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorMuayene.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\zbayr\Desktop\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmMevcutRandevular.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorEkrani.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorMuayene.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmMevcutRandevular.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\User\Desktop\Proje\HastaneProjesiGamze\HastaneProjesiGamze\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe.config
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.exe
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneUIWinForm.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.dll
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\Hastane.DTO.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneBLL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneDAL.dll.config
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\bin\Debug\HastaneEntity.pdb
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmAnaForm.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorEkrani.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmDoktorMuayene.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmEczaneEkrani.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmHastaEkrani.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frmMevcutRandevular.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.frm_UyeOl.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.Properties.Resources.resources
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.csproj.CopyComplete
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.exe
+C:\Users\User\Desktop\Proje\HastaneProjesi\HastaneUIWinForm\obj\Debug\HastaneUIWinForm.pdb
